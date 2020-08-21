@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.wrapper {
+  padding: 12px;
+}
+.margin {
+  margin: 0px 0 10px 0 !important;
+}
+.experienceIsRed{
+  background: 	rgba(211,211,211, .5) !important;
+  color: blue
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.logoInput {
+  cursor: pointer;
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  width: 100%;
+  z-index: 10;
+  height: 100%;
+  margin: 0 !important;
+}
+.logoInput div {
+  width: 100%;
+  height: 100%;
+}
+.logoInput input {
+  width: 100%;
+  height: 100%;
+}
+.MuiGrid-justify-xs-center {
+  justify-content: flex-start !important;
+}
+.react-calendar__navigation__label{
+  pointer-events: none;
+}
+.transaction-list-cell {
+  width: 20%;
+  display: flex;
+  align-items: center;
+}

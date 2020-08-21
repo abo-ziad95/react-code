@@ -1,0 +1,325 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Create Organization Form renders correctly 1`] = `
+<div
+  className="wrapper"
+>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-justify-xs-center"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 MuiGrid-grid-lg-12 MuiGrid-grid-xl-12"
+    >
+      <nav
+        className="MuiTypography-root MuiBreadcrumbs-root MuiTypography-body1 MuiTypography-colorTextSecondary"
+      >
+        <ol
+          className="MuiBreadcrumbs-ol"
+        >
+          <li
+            className="MuiBreadcrumbs-li"
+          >
+            <a
+              className="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorInherit"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+            >
+              Organizations
+            </a>
+          </li>
+          <li
+            aria-hidden={true}
+            className="PrivateBreadcrumbSeparator-root-144 MuiBreadcrumbs-separator"
+          >
+            /
+          </li>
+          <li
+            className="MuiBreadcrumbs-li"
+          >
+            <p
+              className="MuiTypography-root MuiTypography-body1 MuiTypography-colorPrimary"
+            >
+              Create
+            </p>
+          </li>
+        </ol>
+      </nav>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 MuiGrid-grid-lg-12 MuiGrid-grid-xl-12"
+    >
+      <form
+        onSubmit={[Function]}
+      >
+        <div
+          className="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+        >
+          <div
+            className="MuiCardHeader-root"
+          >
+            <div
+              className="MuiCardHeader-content"
+            >
+              <span
+                className="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"
+              >
+                Create Organization
+              </span>
+            </div>
+          </div>
+          <hr
+            className="MuiDivider-root"
+          />
+          <div
+            className="MuiCardContent-root"
+          >
+            <div
+              className="wrapper"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-justify-xs-center"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 MuiGrid-grid-lg-12 MuiGrid-grid-xl-12"
+                >
+                  <div
+                    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginNormal MuiFormControl-fullWidth"
+                  >
+                    <label
+                      className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated Mui-required Mui-required"
+                      data-shrink={false}
+                      htmlFor="name"
+                    >
+                      Organization Name
+                      <span
+                        className="MuiFormLabel-asterisk MuiInputLabel-asterisk"
+                      >
+                         
+                        *
+                      </span>
+                    </label>
+                    <div
+                      className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl"
+                      onClick={[Function]}
+                    >
+                      <input
+                        aria-invalid={false}
+                        autoComplete="off"
+                        className="MuiInputBase-input MuiInput-input"
+                        disabled={false}
+                        id="name"
+                        name="name"
+                        onAnimationStart={[Function]}
+                        onBlur={[Function]}
+                        onChange={[Function]}
+                        onFocus={[Function]}
+                        required={true}
+                        type="text"
+                        value=""
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 MuiGrid-grid-lg-12 MuiGrid-grid-xl-12"
+                >
+                  <div
+                    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginNormal MuiFormControl-fullWidth"
+                  >
+                    <label
+                      className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+                      data-shrink={false}
+                      htmlFor="address"
+                    >
+                      Street Address
+                    </label>
+                    <div
+                      className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl"
+                      onClick={[Function]}
+                    >
+                      <input
+                        aria-invalid={false}
+                        autoComplete="off"
+                        className="MuiInputBase-input MuiInput-input"
+                        disabled={false}
+                        id="address"
+                        name="address"
+                        onAnimationStart={[Function]}
+                        onBlur={[Function]}
+                        onChange={[Function]}
+                        onFocus={[Function]}
+                        required={false}
+                        type="text"
+                        value=""
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-6 MuiGrid-grid-xl-6"
+                >
+                  <div
+                    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginNormal MuiFormControl-fullWidth"
+                  >
+                    <label
+                      className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+                      data-shrink={false}
+                      htmlFor="city"
+                    >
+                      City
+                    </label>
+                    <div
+                      className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl"
+                      onClick={[Function]}
+                    >
+                      <input
+                        aria-invalid={false}
+                        autoComplete="off"
+                        className="MuiInputBase-input MuiInput-input"
+                        disabled={false}
+                        id="city"
+                        name="city"
+                        onAnimationStart={[Function]}
+                        onBlur={[Function]}
+                        onChange={[Function]}
+                        onFocus={[Function]}
+                        required={false}
+                        type="text"
+                        value=""
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-2 MuiGrid-grid-lg-2 MuiGrid-grid-xl-2"
+                >
+                  <div
+                    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginNormal MuiFormControl-fullWidth"
+                  >
+                    <label
+                      className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+                      data-shrink={false}
+                      htmlFor="state"
+                    >
+                      State
+                    </label>
+                    <div
+                      className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl"
+                      onClick={[Function]}
+                    >
+                      <input
+                        aria-invalid={false}
+                        autoComplete="off"
+                        className="MuiInputBase-input MuiInput-input"
+                        disabled={false}
+                        id="state"
+                        name="state"
+                        onAnimationStart={[Function]}
+                        onBlur={[Function]}
+                        onChange={[Function]}
+                        onFocus={[Function]}
+                        required={false}
+                        type="text"
+                        value=""
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-4 MuiGrid-grid-lg-4 MuiGrid-grid-xl-4"
+                >
+                  <div
+                    className="MuiFormControl-root MuiTextField-root MuiFormControl-marginNormal MuiFormControl-fullWidth"
+                  >
+                    <label
+                      className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+                      data-shrink={false}
+                      htmlFor="zip"
+                    >
+                      Zip
+                    </label>
+                    <div
+                      className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl"
+                      onClick={[Function]}
+                    >
+                      <input
+                        aria-invalid={false}
+                        autoComplete="off"
+                        className="MuiInputBase-input MuiInput-input"
+                        disabled={false}
+                        id="zip"
+                        name="zip"
+                        onAnimationStart={[Function]}
+                        onBlur={[Function]}
+                        onChange={[Function]}
+                        onFocus={[Function]}
+                        required={false}
+                        type="text"
+                        value=""
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="MuiCardActions-root MuiCardActions-spacing"
+            >
+              <button
+                className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary"
+                disabled={false}
+                id="cancel"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="MuiButton-label"
+                >
+                  Cancel
+                </span>
+              </button>
+              <button
+                className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                disabled={false}
+                id="submit"
+                onBlur={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                tabIndex={0}
+                type="submit"
+              >
+                <span
+                  className="MuiButton-label"
+                >
+                  Submit
+                </span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+`;

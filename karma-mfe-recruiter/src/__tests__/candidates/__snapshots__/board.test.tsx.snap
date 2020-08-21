@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Board component renders correctly 1`] = `
+<div>
+  <div
+    className="wrapper"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-justify-xs-center"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3 MuiGrid-grid-lg-3 MuiGrid-grid-xl-3"
+      >
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          Applied
+        </h6>
+        <hr
+          className="MuiDivider-root"
+          style={
+            Object {
+              "margin": "12px 0px",
+            }
+          }
+        />
+        <div
+          style={
+            Object {
+              "background": "none",
+              "height": "100%",
+              "width": "100%",
+            }
+          }
+        />
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3 MuiGrid-grid-lg-3 MuiGrid-grid-xl-3"
+      >
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          Pre-Screened
+        </h6>
+        <hr
+          className="MuiDivider-root"
+          style={
+            Object {
+              "margin": "12px 0px",
+            }
+          }
+        />
+        <div
+          style={
+            Object {
+              "background": "none",
+              "height": "100%",
+              "width": "100%",
+            }
+          }
+        />
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3 MuiGrid-grid-lg-3 MuiGrid-grid-xl-3"
+      >
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          Interview
+        </h6>
+        <hr
+          className="MuiDivider-root"
+          style={
+            Object {
+              "margin": "12px 0px",
+            }
+          }
+        />
+        <div
+          style={
+            Object {
+              "background": "none",
+              "height": "100%",
+              "width": "100%",
+            }
+          }
+        />
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3 MuiGrid-grid-lg-3 MuiGrid-grid-xl-3"
+      >
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          Hired
+        </h6>
+        <hr
+          className="MuiDivider-root"
+          style={
+            Object {
+              "margin": "12px 0px",
+            }
+          }
+        />
+        <div
+          style={
+            Object {
+              "background": "none",
+              "height": "100%",
+              "width": "100%",
+            }
+          }
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
