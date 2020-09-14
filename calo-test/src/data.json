@@ -1,0 +1,183 @@
+[
+    {
+      "id": "1",
+      "name": "name",
+      "lat": 26.228569491053218,
+      "lng": 50.56681382617191,
+      "address": "address",
+      "deliveryStatus": "delivered"
+    },
+    {
+      "id": "2",
+      "name": "name2",
+      "lat": 26.232766,
+      "lng":  50.568788,
+      "address": "address2",
+      "deliveryStatus": "delivered"
+    },
+    {
+      "id": "3",
+      "name": "name3",
+      "lat": 26.232342,
+      "lng": 50.561664,
+      "address": "address3",
+      "deliveryStatus": "delivered"
+    },
+    {
+      "id": "4",
+      "name": "name4",
+      "lat": 26.231226,
+      "lng": 50.555055,
+      "address": "address4",
+      "deliveryStatus": "delivered"
+    },
+    {
+      "id": "5",
+      "name": "name5",
+      "lat": 26.232496,
+      "lng": 50.537975,
+      "address": "address5",
+      "deliveryStatus": "delivered"
+    },
+    {
+      "id": "6",
+      "name": "name6",
+      "lat": 26.228223,
+      "lng": 50.54364,
+      "address": "address6",
+      "deliveryStatus": "delivered"
+    },
+    {
+      "id": "7",
+      "name": "name7",
+      "lat": 26.221486,
+      "lng": 50.527246,
+      "address": "address7",
+      "deliveryStatus": "delivered"
+    },
+    {
+      "id": "8",
+      "name": "name8",
+      "lat": 26.218367,
+      "lng": 50.542352,
+      "address": "address",
+      "deliveryStatus": "delivered"
+    },
+    {
+      "id": "9",
+      "name": "name9",
+      "lat": 26.217636,
+      "lng": 50.521495,
+      "address": "address9",
+      "deliveryStatus": "delivered"
+    },
+    {
+      "id": "10",
+      "name": "name10",
+      "lat": 26.228608,
+      "lng": 50.501068,
+      "address": "address10",
+      "deliveryStatus": "delivered"
+    },
+  {
+    "id": "11",
+    "name": "name11",
+    "lat": 26.223257,
+    "lng": 50.48682,
+    "address": "address11",
+    "deliveryStatus": "delivering"
+  },
+  {
+    "id": "12",
+    "name": "name12",
+    "lat": 26.217289,
+    "lng": 50.502612,
+    "address": "address12",
+    "deliveryStatus": "delivering"
+  },
+  {
+    "id": "13",
+    "name": "name13",
+    "lat": 26.216481,
+    "lng": 50.524156,
+    "address": "address13",
+    "deliveryStatus": "delivering"
+  },
+  {
+    "id": "14",
+    "name": "name14",
+    "lat": 26.214979,
+    "lng": 50.541665,
+    "address": "address14",
+    "deliveryStatus": "delivering"
+  },
+  {
+    "id": "15",
+    "name": "name15",
+    "lat": 26.212246,
+    "lng": 50.533855,
+    "address": "address15",
+    "deliveryStatus": "delivering"
+  },
+  {
+    "id": "16",
+    "name": "name16",
+    "lat": 26.21136,
+    "lng": 50.511625,
+    "address": "address16",
+    "deliveryStatus": "delivering"
+  },
+  {
+    "id": "17",
+    "name": "name17",
+    "lat": 26.21009,
+    "lng": 50.527332,
+    "address": "address17",
+    "deliveryStatus": "delivering"
+  },
+  {
+    "id": "18",
+    "name": "name18",
+    "lat": 26.219368,
+    "lng": 50.501153,
+    "address": "address18",
+    "deliveryStatus": "delivering"
+  },
+  {
+    "id": "19",
+    "name": "name19",
+    "lat": 26.222256,
+    "lng": 50.474031,
+    "address": "address19",
+    "deliveryStatus": "delivering"
+  },
+  {
+    "id": "20",
+    "name": "name10",
+    "lat": 26.217905,
+    "lng": 50.489824,
+    "address": "address10",
+    "deliveryStatus": "delivering"
+  },
+  {
+    "id": "21",
+    "name": "name21",
+    "lat": 26.208781,
+    "lng": 50.509736,
+    "address": "address21"
+  },
+  {
+    "id": "22",
+    "name": "name22",
+    "lat": 26.20235,
+    "lng": 50.497463,
+    "address": "address22"
+  },
+  {
+    "id": "23",
+    "name": "name23",
+    "lat": 26.197614,
+    "lng": 50.503642,
+    "address": "address23"
+  }
+]

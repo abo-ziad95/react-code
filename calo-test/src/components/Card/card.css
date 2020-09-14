@@ -1,0 +1,29 @@
+.cardWrap {
+  padding: 15px;
+  width: 33%;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  background-color: grey;
+  border-radius: 3px;
+  margin: 10px .1%;
+}
+.cardsWrap {
+  padding: 0 10px;
+  display: flex;
+  flex-flow: row wrap;
+ }
+.cardsWrap::after {
+  content: '';
+  flex: auto;
+}
+.delivering{
+  color: blue;
+}
+.delivered{
+  color: darkgreen;
+}
+.noStatus{
+  color: darkred;
+}
