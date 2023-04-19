@@ -1,0 +1,33 @@
+html {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+}
+
+*:focus {
+  outline: 2px solid #007eff;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  outline-offset: 2px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e8e4e1;
+}
+
+ul {
+  list-style-type: none;
+}
